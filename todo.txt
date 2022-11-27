@@ -3,5 +3,4 @@
 3. Solve Sql queries
 4. Hadoop practical case study
 5. Hive practical case study
-6. Practice Code
-7. Check the next checkpoint
+6. Lets see what happens
